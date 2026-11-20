@@ -21,3 +21,13 @@
 .hero-card h3 {
   margin: 10px 0;
 }
+
+.hero-page {
+  display: flex;
+  gap: 32px;
+  align-items: felx-start
+}
+
+.hero-page img {
+  width: 300px;
+}
