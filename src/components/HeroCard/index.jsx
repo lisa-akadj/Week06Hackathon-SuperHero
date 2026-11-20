@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom'
 
-function Herocard({id, name, image}) {
+function HeroCard({id, name, image}) {
     return (
         <div className="hero-card">
             <Link to={`hero${id}`}>
